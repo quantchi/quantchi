@@ -4,4 +4,6 @@ theme: just-the-docs
 
 url: https://quantchi.github.io
 
-aux_links:
+logo: "/assets/images/logo.svg"
+
+footer_content: "Copyright &copy; 2024 quantchi.io"
