@@ -5,5 +5,9 @@ theme: just-the-docs
 url: https://quantchi.github.io
 
 logo: "/assets/images/logo.svg"
+favicon_ico: "/assets/images/favicons/favicon-256.png"
+
 
 footer_content: "Copyright &copy; 2024 quantchi.io"
+
+search_enabled: false
