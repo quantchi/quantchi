@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: default
+layout: minimal
 ---
 
 Quant Chi is a professional tool from active traders for active traders. 
