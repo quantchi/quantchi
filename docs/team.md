@@ -11,6 +11,7 @@ td, th {
 Quant Chi is a professional tool from active traders for active traders. 
 
 ### **Aleksei Kornev**
+|     |     |
 | --- | --- |
 | ![Aleksei Kornev](/assets/images/avatars/quantchi-alekseiko.png) | With over 15 years of experience in the Hi-Tech industry and more than 7 years in trading, I have served as a Solution Architect, Head of the Data Department at a top Asian digital bank, and founder of various tech projects. My experience spans collaborations with major companies such as eBay, Art.com, Kohls, HomeDepot, as well as innovative FinTech startups. Outside of the professional realm, I am an avid fan of cross-country marathons, yoga, paddling, and winter swimming. |
 
