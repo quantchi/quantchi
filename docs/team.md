@@ -12,7 +12,6 @@ With over 15 years of experience in the Hi-Tech industry and more than 7 years i
 ---
 
 ### **Boris Lifatov**
-<img src="/assets/images/avatars/quantchi-boris.png"  alt="Boris Lifatov" style="float: right; margin-right: 10px;">
 ![Boris Lifatov](/assets/images/avatars/quantchi-boris.png "Boris Lifatov")
 With 9+ years of marketing experience in Hi-Tech, Blockchain, Edtech, E-commerce and FinTech projects, and over 7 years in cryptocurrency trading, I am a strong believer in the transformative power of Blockchain technology. It is rapidly and irreversibly changing our world by massively embedding itself into our daily lives. Beyond my professional expertise, I am a passionate practitioner and advocate of Yoga, Breathing Techniques, and Ice Baths.
 
