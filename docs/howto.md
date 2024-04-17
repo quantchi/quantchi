@@ -3,6 +3,8 @@ title: How to use
 layout: minimal
 ---
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZeutSRNhYX4/0.jpg)](https://www.youtube.com/watch?v=ZeutSRNhYX4)
+
+
 QuantChi is a crypto screener and powerful tool for traders to create profitable quant strategies  and automate trading operations without code knowledge. Be constantly on the edge of the cryptocurrency market, without FOMO and non-stop personal presence at the trading terminal.
 
 QuantChi allows users to create segments consisting of such parameters as tech analysis indicators, trading volumes, and market sentiment parameters and use them for notifications and trading strategies.
