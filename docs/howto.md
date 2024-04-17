@@ -2,7 +2,7 @@
 title: How to use
 layout: minimal
 ---
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZeutSRNhYX4/0.jpg)](https://www.youtube.com/watch?v=ZeutSRNhYX4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeutSRNhYX4?si=ZeutSRNhYX4" title="QuantChi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 QuantChi is a crypto screener and powerful tool for traders to create profitable quant strategies  and automate trading operations without code knowledge. Be constantly on the edge of the cryptocurrency market, without FOMO and non-stop personal presence at the trading terminal.
